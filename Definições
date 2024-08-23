@@ -1,0 +1,30 @@
+Função: Em C++, uma função é um bloco de código que realiza uma tarefa específica e pode ser chamada 
+de diferentes partes de um programa. Funções ajudam a organizar e reutilizar o código, além de 
+facilitar a manutenção e a compreensão do programa.
+
+Argumentos/Parâmetros: Por meio dos parâmetros, é possível generalizar uma função.O mesmo resultado é mostrado todas
+ as vezes, pois os valores de x são constantes, atribuídos dentro da função. Parâmetros: Definidos na declaração da 
+ função. Servem como placeholders.Argumentos: Valores reais passados para a função no momento de sua chamada.
+
+Tipos de Funções: Funções sem Retorno (void)
+Essas funções não retornam nenhum valor. Elas realizam uma tarefa e terminam sua execução.
+Funções com Retorno
+Essas funções retornam um valor após a execução. O tipo de retorno pode ser qualquer tipo de dado, como int, float, 
+double, char, ou mesmo um objeto.
+Funções Recursivas
+Uma função recursiva é uma função que se chama a si mesma. É útil para resolver problemas que podem ser divididos em
+subproblemas menores.
+entre outras...
+
+Void: Em C++, void é um tipo de dado especial que tem várias utilizações, principalmente relacionadas a funções e 
+ponteiros.
+
+Tipos de passagem de parâmetros: Passagem por Valor
+Na passagem por valor, uma cópia do valor do argumento é passada para a função. Isso significa que qualquer 
+alteração feita no parâmetro dentro da função não afeta a variável original.
+Passagem por Referência
+Na passagem por referência, a função recebe uma referência ou ponteiro para a variável original, permitindo que a 
+função modifique diretamente o valor da variável.
+
+Retorno de uma função: Em C/C++, o retorno de uma função refere-se ao valor ou objeto que a função entrega ao 
+chamador após a sua execução. O tipo de retorno de uma função define que tipo de valor a função irá retornar.
